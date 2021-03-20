@@ -16,6 +16,7 @@ class UsersController < ApplicationController
     if @user.save
       redirect_to login_path, notice: 'User was successfully created.'
     else
+      flash.now[:alert] = 'User creation failed'
       render :new
     end
   end
