@@ -1,0 +1,29 @@
+example_id                                   | status | run_time        |
+-------------------------------------------- | ------ | --------------- |
+./spec/models/task_spec.rb[1:1:1]            | passed | 0.0024 seconds  |
+./spec/models/task_spec.rb[1:1:2]            | passed | 0.04525 seconds |
+./spec/models/task_spec.rb[1:1:3]            | passed | 0.00159 seconds |
+./spec/models/task_spec.rb[1:1:4]            | passed | 0.00803 seconds |
+./spec/models/task_spec.rb[1:1:5]            | passed | 0.00646 seconds |
+./spec/system/tasks_spec.rb[1:1:1:1:1]       | passed | 0.11729 seconds |
+./spec/system/tasks_spec.rb[1:1:1:2:1]       | passed | 0.11975 seconds |
+./spec/system/tasks_spec.rb[1:1:1:3:1]       | passed | 0.11278 seconds |
+./spec/system/tasks_spec.rb[1:2:1:1:1]       | passed | 0.47015 seconds |
+./spec/system/tasks_spec.rb[1:2:1:2:1]       | passed | 0.41766 seconds |
+./spec/system/tasks_spec.rb[1:2:1:3:1]       | passed | 0.44903 seconds |
+./spec/system/tasks_spec.rb[1:2:2:1:1]       | passed | 0.43078 seconds |
+./spec/system/tasks_spec.rb[1:2:2:2:1]       | passed | 0.43877 seconds |
+./spec/system/tasks_spec.rb[1:2:2:3:1]       | passed | 0.39764 seconds |
+./spec/system/tasks_spec.rb[1:2:3:1]         | passed | 1.39 seconds    |
+./spec/system/user_sessions_spec.rb[1:1:1:1] | passed | 0.24854 seconds |
+./spec/system/user_sessions_spec.rb[1:1:2:1] | passed | 0.24492 seconds |
+./spec/system/user_sessions_spec.rb[1:2:1:1] | passed | 0.27652 seconds |
+./spec/system/users_spec.rb[1:1:1:1:1]       | passed | 0.32139 seconds |
+./spec/system/users_spec.rb[1:1:1:2:1]       | passed | 0.27391 seconds |
+./spec/system/users_spec.rb[1:1:1:3:1]       | passed | 0.29163 seconds |
+./spec/system/users_spec.rb[1:2:1:1]         | passed | 0.11127 seconds |
+./spec/system/users_spec.rb[1:3:1:1:1]       | passed | 0.44041 seconds |
+./spec/system/users_spec.rb[1:3:1:2:1]       | passed | 0.47538 seconds |
+./spec/system/users_spec.rb[1:3:1:3:1]       | passed | 0.42589 seconds |
+./spec/system/users_spec.rb[1:3:1:4:1]       | passed | 0.30747 seconds |
+./spec/system/users_spec.rb[1:3:2:1:1]       | passed | 0.32754 seconds |
